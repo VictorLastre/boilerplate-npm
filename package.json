@@ -3,11 +3,11 @@
 	"dependencies": {
 		"express": "^4.14.0"
 	},
-	"author": "Víctor Lastre",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
 	},
+	"author": "Víctor Lastre",
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
